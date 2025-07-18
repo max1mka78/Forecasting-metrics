@@ -70,7 +70,7 @@
 
 ## Общая информация
 
-- **Версия библиотеки на сервере:** `1.1.4.2`
+- **Версия библиотеки в проекте:** `1.1.4.2`
 - **Документация:** [Orbit Documentation](https://pyro.contrib.orbit.d2cqxq2zg4f8gy.amzn/prophet/quick_start.html )
 - **GitHub репозиторий:** [Orbit GitHub](https://github.com/uber/orbit )
 - **Оригинальная статья о библиотеке:** [цель и функционал библиотеки](https://eng.uber.com/orbit/ )
